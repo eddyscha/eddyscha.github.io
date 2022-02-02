@@ -1,6 +1,6 @@
-AUTHOR = 'eddyscha'
-SITENAME = 'eddyscha'
-SITEURL = ''
+AUTHOR = 'Eddy Schauman-Haigh'
+SITENAME = 'Eddy Schauman-Haigh'
+SITEURL = 'https://eddyscha.github.io'
 
 PATH = 'content'
 
